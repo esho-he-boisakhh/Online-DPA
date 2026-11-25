@@ -1,6 +1,4 @@
-Here's the updated, concise README with `requirements.txt` installation instructions included.
 
-Writing
 
 # RB-ODPA: Online Data Poisoning Attack
 
